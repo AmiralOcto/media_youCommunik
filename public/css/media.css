@@ -112,7 +112,7 @@
     #text-packages {
         transform: scale(0.7);
     }
-
+}
     @media screen and (min-width: 375px) and (max-width:425px) {
         body {
             margin: 0;
@@ -216,3 +216,4 @@
         .dispo-logo-exception > div {
             transform: scale(0.7);
         }
+    }
